@@ -4,7 +4,7 @@
 <h1>Хотите поддержать меня ?</h1>
 <p>Поддержите меня и мои проекты деньгами, любая поддержка пойдет мне на пользу и на развитие моих проектов !
 
-Qiwi nick name: <code>PATRICKJANE</code>
+<h2>Qiwi nick name: <code>PATRICKJANE</code></h2>
 </p>
 
 <img src="https://gpvc.arturio.dev/DeanWinchester">
