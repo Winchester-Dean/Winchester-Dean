@@ -11,12 +11,13 @@
   <li>When there is a good mood, I write sites on Python Flask</li>
 </ul>
 
+<!--
 <h1>Languages:</h1>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="50" height="50"/>
 </p>
 
-<!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
+<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
 
 <h1>🔥 My Stats:</h1>
 <div id="badges">
