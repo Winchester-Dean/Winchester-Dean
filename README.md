@@ -13,7 +13,7 @@
 
 <h1>Languages:</h1>
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="python" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="50" height="50"/>
 </p>
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
