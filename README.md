@@ -6,8 +6,11 @@
 <h1>:man_technologist: &nbsp;About Me:</h1>
 <p>I am a Python devloper.</p>
 <ul>
-  <li>test test</li>
+  <li>I write programs for the Linux operating system.</li>
+  <li>In my free time, I write Android apps.</li>
+  <li><li>test</li></li>
 </ul>
+
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
   <p align="center">
