@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# :man_technologist: &nbsp;About Me:
-I am a Python and C++ devloper
+<h1>:man_technologist: &nbsp;About Me:</h1>
+<p>I am a Python and C++ devloper</p>
 
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
