@@ -4,8 +4,12 @@
 </h1>
 
 <h1>:man_technologist: &nbsp;About Me:</h1>
-<p>I am a Python and C++ devloper</p>
-
+<p>I am a Python devloper.</p>
+<ul>
+  <ul>
+    <li>test test</li>
+  </ul>
+</ul>
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
   <p align="center">
