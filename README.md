@@ -4,6 +4,7 @@
 </h1>
 
 # :man_technologist: &nbsp;About Me:
+I am a Python and C++ devloper
 
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
