@@ -8,9 +8,13 @@
 <ul>
   <li>I write programs for the Linux operating system.</li>
   <li>In my free time, I write Android apps.</li>
-  <li><li>test</li></li>
+  <li>When there is a good mood, I write sites on Python Flask</li>
 </ul>
 
+<h1>Languages:</h1>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="python" alt="python" width="50" height="50"/>
+</p>
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
   <p align="center">
