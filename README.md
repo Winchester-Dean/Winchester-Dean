@@ -1,10 +1,10 @@
-<div id="about">
-  <h1 align="center">
-    Hi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  # :man_technologist: About Me:
-</div>
+<h1 align="center">
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+# :man_technologist: &nbsp;About Me:
+
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
   <p align="center">
