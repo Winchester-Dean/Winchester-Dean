@@ -26,4 +26,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Winchester-Dean&show_icons=true&count_private=true"/>
   </p>
+  <p>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=WinchesterDean&theme=dark&background=000000"/>
+  </p>
 </div>
