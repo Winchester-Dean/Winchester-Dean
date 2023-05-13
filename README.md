@@ -27,9 +27,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Winchester-Dean&show_icons=true&count_private=true"/>
   </p>
   <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=WinchesterDean&theme=dark&background=000000"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Winchester-Dean&theme=dark&background=000000"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinchesterDean&layout=compact&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winchester-Dean&layout=compact&theme=vision-friendly-dark"/>
   </p>
 </div>
