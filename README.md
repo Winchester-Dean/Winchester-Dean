@@ -15,8 +15,11 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="50" height="50"/>
 </p>
+
+<!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
+
+<h1>🔥 My Stats:</h1>
 <div id="badges">
-  <!--<img src="https://img.shields.io/badge/IMO messenger-blue?logo=instagram&logoColor=white&style=for-the-badge">-->
   <p align="center">
     <img src="https://gpvc.arturio.dev/DeanWinchester"/>
   </p>
